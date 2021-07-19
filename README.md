@@ -1,4 +1,4 @@
-# hello-nutx
+# hello-nuxt
 
 ## Build Setup
 
