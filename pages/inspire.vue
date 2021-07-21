@@ -11,5 +11,6 @@
         Antério Vieira
       </a>
     </h3>
+    <Tutorial />
   </section>
 </template>
